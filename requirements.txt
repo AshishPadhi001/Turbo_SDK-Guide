@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+libsql
+python-dotenv
+pydantic
+pydantic[email]
